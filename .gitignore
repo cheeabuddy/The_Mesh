@@ -1,0 +1,12 @@
+# Directories and files to be ignored
+
+# Main
+
+
+# Hardware
+Hardware/Mesh_Main_PCB/__Previews
+Hardware/Mesh_Main_PCB/History
+Hardware/Mesh_Main_PCB/Project\ Logs\ for\ Mesh_Main_PCB
+
+
+# Software
